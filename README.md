@@ -119,6 +119,9 @@ This will save point cloud visualizations with cameras every 20 frames, in each 
 * All Source cameras (every 10 frames): each camera is represented by two vertices and an edge between them, the green vertice represents the camera position, and blue vertice with the edge represent the camera's looking direction.
 * All Target cameras (every 10 frames): each camera is represented by two vertices and an edge between them, the red vertice represents the camera position, and yellow vertice with the edge represent the camera's looking direction.
 
+## Training and Inference code
+Due to IP-policy, we don't have plan to release training and inference code at the moment.
+
 ## Citation
 
 If you find this repository useful for your research, please use the following:
