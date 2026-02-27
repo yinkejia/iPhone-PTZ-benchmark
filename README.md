@@ -133,5 +133,3 @@ Both our code and dataset are released under the Apache 2.0 license.
 ## Acknowledgement
 
 For iPhone benchmark, we reuse the calibrated colmap cameras from [Shape-of-Motion](https://github.com/vye16/shape-of-motion). 
-
-Our metrics evaluation implementation is built upon [Shape-of-Motion](https://github.com/vye16/shape-of-motion). 
