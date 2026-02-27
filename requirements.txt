@@ -1,0 +1,9 @@
+numpy
+torch
+torchmetrics
+torchvision
+scipy
+Pillow
+opencv-python
+plyfile
+tqdm
