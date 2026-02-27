@@ -53,7 +53,7 @@ if __name__ == "__main__":
         camdirector = {}
 
         for scene in tqdm(scenes, desc="Loading frames"):
-            frame_names = sorted(os.listdir(os.path.join(results_folder, "target", scene)))
+            frame_names = sorted(os.listdir(os.path.join(results_folder, "camdirector", scene)))
             
             gt[scene] = [Image.open(os.path.join(gt_dir, dataset, scene, "target_imgs", image_name)).convert("RGB") for image_name in frame_names]
             camdirector[scene] = [Image.open(os.path.join(camdirector_dir, scene, image_name)).convert("RGB") for image_name in frame_names]
