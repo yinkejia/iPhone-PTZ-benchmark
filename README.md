@@ -127,6 +127,12 @@ Due to IP-policy, we don't have plan to release training and inference code at t
 If you find this repository useful for your research, please use the following:
 
 ```txt
+@article{yin2026camdirector,
+  title={CamDirector: Towards Long-Term Coherent Video Trajectory Editing}, 
+  author={Kejia Yin and Zhihao Shi and Weilin Wan and Yuhongze Zhou and Yuanhao Yu and Xinxin Zuo and Qiang Sun and Juwei Lu},
+  journal={arXiv preprint arXiv:2603.02256},
+  year={2026}
+}
 ```
 
 ## License
