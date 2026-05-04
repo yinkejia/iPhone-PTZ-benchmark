@@ -1,5 +1,5 @@
 # CamDirector: Towards Long-Term Coherent Video Trajectory Editing
-### [Paper](https://arxiv.org/abs/2603.02256) | [Project Page](https://yinkejia.github.io/CamDirector-Project-Page/) | [Video](https://yinkejia.github.io/CamDirector-Project-Page/) | [Data](https://huggingface.co/datasets/yinkejia/iPhone-PTZ)
+### [Paper](https://arxiv.org/abs/2603.02256) | [Project Page](https://yinkejia.github.io/CamDirector-Project-Page/) | [Video](https://www.youtube.com/watch?v=C2O0Nwt40Gc) | [Data](https://huggingface.co/datasets/yinkejia/iPhone-PTZ)
 This repo contains the official evaluation code for iPhone-PTZ benchmark proposed in [CVPR 2026 | CamDirector: Towards Long-Term Coherent Video Trajectory Editing]. Benchmark data and our method's results can be downloaded from [here](https://huggingface.co/datasets/yinkejia/iPhone-PTZ).
 
 
